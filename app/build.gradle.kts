@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "education.cccp.jetpack.compose.playground"
-    compileSdk = 34
+    namespace = "jetpack.compose.playground"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "education.cccp.jetpack.compose.playground"
+        applicationId = "jetpack.compose.playground"
         minSdk = 30
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
